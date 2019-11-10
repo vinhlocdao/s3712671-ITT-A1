@@ -89,7 +89,10 @@ input, select, textarea {
 		}
 
 	}
-
+	
+	html { 
+		scroll-behavior: smooth; 
+	}
 	html {
 		box-sizing: border-box;
 	}
